@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This code is based on the tutorial extracted from: http://edgeguides.rubyonrails.org/getting_started.html
+
+The next step is to add paperclip support through the following tutorial: https://richonrails.com/articles/getting-started-with-paperclip
